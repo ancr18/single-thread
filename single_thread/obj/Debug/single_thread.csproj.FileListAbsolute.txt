@@ -1,0 +1,14 @@
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\bin\Debug\single_thread.exe.config
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\bin\Debug\single_thread.exe
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\bin\Debug\single_thread.pdb
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\obj\Debug\single_thread.csprojAssemblyReference.cache
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\obj\Debug\single_thread.Form1.resources
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\obj\Debug\single_thread.Properties.Resources.resources
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\obj\Debug\single_thread.csproj.GenerateResource.cache
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\obj\Debug\single_thread.csproj.CoreCompileInputs.cache
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\obj\Debug\single_thread.exe
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\obj\Debug\single_thread.pdb
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\bin\Debug\CircularProgressBar.dll
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\bin\Debug\WinFormAnimation.dll
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\bin\Debug\CircularProgressBar.xml
+C:\Users\AncR\source\repos\semester6\pemograman_paralel\per3\single_thread\single_thread\obj\Debug\single_thread.csproj.CopyComplete
